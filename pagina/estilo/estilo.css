@@ -1,0 +1,29 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+/* CSS Document */
+h1 {text-align:center;
+	color: #F2F0F2;
+	font-family: 'Oswald', sans-serif;
+	font-size: 5em}
+ul {text-align:center;
+	color: #EB1F02;
+	font-family: 'Oswald', sans-serif;
+	font-size: 2em}
+h2 {text-align:center;
+	color: #F2F0F2;
+	font-family: 'Oswald', sans-serif;
+	font-size: 3em}
+.imagenalcentro{display: block;
+margin-left:auto;
+margin-right: auto;
+width: 50%;}
+h3 {text-align:center;
+	color: #F2F0F2;
+	font-family: 'Oswald', sans-serif;
+	font-size: 3em}
+p.alternativo {color: #F2F0F2;
+text-align: justify;
+text-align: center;
+font-family: 'Barlow Condensed', sans-serif;
+font-size: 1.5em}
